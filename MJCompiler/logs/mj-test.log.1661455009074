@@ -1,0 +1,41 @@
+INFO  21:15:55,127 - Compiling source file: C:\Users\user\Desktop\PP_Projekat\PROJEKAT_PRAVI\MJCompiler\test\program.mj
+INFO  21:15:55,166 - #6 program
+INFO  21:15:55,167 - #2 test301
+INFO  21:15:55,167 - #2 int
+INFO  21:15:55,168 - #2 niz
+INFO  21:15:55,169 - #41 ;
+INFO  21:15:55,169 - #46 {
+INFO  21:15:55,170 - #11 void
+INFO  21:15:55,171 - #2 main
+INFO  21:15:55,171 - #44 (
+INFO  21:15:55,172 - #45 )
+INFO  21:15:55,173 - #2 int
+INFO  21:15:55,173 - #2 bodovi
+INFO  21:15:55,173 - #41 ;
+INFO  21:15:55,174 - #2 int
+INFO  21:15:55,174 - #2 rez
+INFO  21:15:55,174 - #41 ;
+INFO  21:15:55,174 - #46 {
+INFO  21:15:55,174 - #2 bodovi
+INFO  21:15:55,175 - #38 =
+INFO  21:15:55,175 - #3 8
+INFO  21:15:55,177 - #41 ;
+INFO  21:15:55,178 - #2 int
+INFO  21:15:55,179 - #38 =
+INFO  21:15:55,179 - #3 2
+INFO  21:15:55,179 - #2 rez
+ERROR 21:15:55,179 - 
+Sintaksna greska na liniji 15
+INFO  21:15:55,179 - #38 =
+INFO  21:15:55,179 - #2 bodovi
+INFO  21:15:55,179 - #25 +
+INFO  21:15:55,180 - #2 int
+INFO  21:15:55,180 - #41 ;
+INFO  21:15:55,180 - #23 print
+INFO  21:15:55,180 - #44 (
+INFO  21:15:55,180 - #2 rez
+INFO  21:15:55,180 - #45 )
+INFO  21:15:55,180 - #41 ;
+INFO  21:15:55,180 - #47 }
+INFO  21:15:55,180 - #47 }
+ERROR 21:15:55,180 - Fatalna greska, parsiranje se ne moze nastaviti na liniji 18

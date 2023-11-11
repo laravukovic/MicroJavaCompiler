@@ -1,0 +1,198 @@
+INFO  01:11:35,544 - Compiling source file: C:\Users\user\Desktop\PP_Projekat\PROJEKAT_PRAVI\MJCompiler\test\program.mj
+INFO  01:11:35,584 - #6 program
+INFO  01:11:35,584 - #2 test301
+INFO  01:11:35,584 - #10 const
+INFO  01:11:35,585 - #2 int
+INFO  01:11:35,585 - #2 nula
+INFO  01:11:35,586 - #38 =
+INFO  01:11:35,586 - #3 0
+INFO  01:11:35,586 - #41 ;
+INFO  01:11:35,586 - #10 const
+INFO  01:11:35,587 - #2 int
+INFO  01:11:35,587 - #2 jedan
+INFO  01:11:35,587 - #38 =
+INFO  01:11:35,588 - #3 1
+INFO  01:11:35,588 - #41 ;
+INFO  01:11:35,588 - #10 const
+INFO  01:11:35,588 - #2 int
+INFO  01:11:35,588 - #2 tri
+INFO  01:11:35,588 - #38 =
+INFO  01:11:35,588 - #3 3
+INFO  01:11:35,588 - #41 ;
+INFO  01:11:35,588 - #10 const
+INFO  01:11:35,589 - #2 int
+INFO  01:11:35,589 - #2 pet
+INFO  01:11:35,589 - #38 =
+INFO  01:11:35,589 - #3 5
+INFO  01:11:35,589 - #41 ;
+INFO  01:11:35,589 - #2 int
+INFO  01:11:35,589 - #2 niz
+INFO  01:11:35,589 - #48 [
+INFO  01:11:35,589 - #49 ]
+INFO  01:11:35,590 - #41 ;
+INFO  01:11:35,590 - #2 char
+INFO  01:11:35,591 - #2 nizch
+INFO  01:11:35,591 - #48 [
+INFO  01:11:35,591 - #49 ]
+INFO  01:11:35,591 - #41 ;
+INFO  01:11:35,591 - #46 {
+INFO  01:11:35,591 - #11 void
+INFO  01:11:35,592 - #2 main
+INFO  01:11:35,592 - #44 (
+INFO  01:11:35,593 - #45 )
+INFO  01:11:35,594 - #2 int
+INFO  01:11:35,594 - #2 bodovi
+INFO  01:11:35,594 - #41 ;
+INFO  01:11:35,594 - #2 bool
+INFO  01:11:35,595 - #2 bt
+INFO  01:11:35,595 - #41 ;
+INFO  01:11:35,595 - #46 {
+INFO  01:11:35,595 - #2 bodovi
+INFO  01:11:35,596 - #38 =
+INFO  01:11:35,596 - #3 0
+INFO  01:11:35,599 - #41 ;
+INFO  01:11:35,600 - #2 bodovi
+INFO  01:11:35,601 - #39 ++
+INFO  01:11:35,601 - #41 ;
+INFO  01:11:35,602 - #47 }
+INFO  01:11:35,602 - #47 }
+INFO  01:11:35,605 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  VarParam(
+    VarParam(
+      ConstParam(
+        ConstParam(
+          ConstParam(
+            ConstParam(
+              ParamDeclDerived1(
+              ) [ParamDeclDerived1]
+              ConstDecl(
+                Type(
+                 int
+                ) [Type]
+                SingleNumberConst(
+                 nula
+                 0
+                ) [SingleNumberConst]
+              ) [ConstDecl]
+            ) [ConstParam]
+            ConstDecl(
+              Type(
+               int
+              ) [Type]
+              SingleNumberConst(
+               jedan
+               1
+              ) [SingleNumberConst]
+            ) [ConstDecl]
+          ) [ConstParam]
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            SingleNumberConst(
+             tri
+             3
+            ) [SingleNumberConst]
+          ) [ConstDecl]
+        ) [ConstParam]
+        ConstDecl(
+          Type(
+           int
+          ) [Type]
+          SingleNumberConst(
+           pet
+           5
+          ) [SingleNumberConst]
+        ) [ConstDecl]
+      ) [ConstParam]
+      VarDeclarationArray(
+        Type(
+         int
+        ) [Type]
+       niz
+        NoVarDeclMore(
+        ) [NoVarDeclMore]
+      ) [VarDeclarationArray]
+    ) [VarParam]
+    VarDeclarationArray(
+      Type(
+       char
+      ) [Type]
+     nizch
+      NoVarDeclMore(
+      ) [NoVarDeclMore]
+    ) [VarDeclarationArray]
+  ) [VarParam]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        VoidRetType(
+        ) [VoidRetType]
+       main
+      ) [MethodTypeName]
+      NoFormPars(
+      ) [NoFormPars]
+      VarDeclarations(
+        VarDeclarations(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDeclaration(
+            Type(
+             int
+            ) [Type]
+           bodovi
+            NoVarDeclMore(
+            ) [NoVarDeclMore]
+          ) [VarDeclaration]
+        ) [VarDeclarations]
+        VarDeclaration(
+          Type(
+           bool
+          ) [Type]
+         bt
+          NoVarDeclMore(
+          ) [NoVarDeclMore]
+        ) [VarDeclaration]
+      ) [VarDeclarations]
+      MultiStmtList(
+        MultiStmtList(
+          NoStmt(
+          ) [NoStmt]
+          DesStmt(
+            DesAssign(
+              DesBasic(
+               bodovi
+              ) [DesBasic]
+              AssignOperator(
+              ) [AssignOperator]
+              ExprMinus(
+                MinusNo(
+                ) [MinusNo]
+                ExprFactorTerm(
+                  FactorTerm(
+                    NumConst(
+                     0
+                    ) [NumConst]
+                  ) [FactorTerm]
+                ) [ExprFactorTerm]
+              ) [ExprMinus]
+            ) [DesAssign]
+          ) [DesStmt]
+        ) [MultiStmtList]
+        DesStmt(
+          VarInc(
+            DesBasic(
+             bodovi
+            ) [DesBasic]
+          ) [VarInc]
+        ) [DesStmt]
+      ) [MultiStmtList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  01:11:35,605 - ===================================

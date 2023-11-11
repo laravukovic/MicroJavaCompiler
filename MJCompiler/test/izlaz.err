@@ -1,0 +1,6 @@
+[Line #37]  LEXICAL_ERROR: Simbol @ ne postoji u tabeli simbola 
+[Line #7 ]  SEMANTIC_ERROR: Greska: identifikator pet je vec deklarisan!
+[Line #15]  SEMANTIC_ERROR: Greska : tipovi u dodeli vrednosti nisu kompatibilni
+[Line #18]  SEMANTIC_ERROR: Greska : Indeks niza mora biti celobrojna vrednost! 
+[Line #18]  SEMANTIC_ERROR: Greska : tipovi u dodeli vrednosti nisu kompatibilni
+[Line #2 ]  SEMANTIC_ERROR: Greska : main funkcija ne sme da ima parametre!

@@ -1,0 +1,43 @@
+
+program test301
+    int  niz[];
+    const int pet = 5;
+    char ime;
+    bool prom;
+    const int pet = 6;
+{
+    void main(int par)
+        int x;
+        int ime;
+    {
+        niz = new int[4];
+		
+		ime = 'a';
+		x = ime;
+		
+		niz[prom] = 0;
+		
+        niz[0] = 0;
+        niz[1] = 1;
+        niz[2] = 2;
+        niz[3] = 3;
+
+        //ovo je niz[1]
+        niz[niz[niz[niz[niz[niz[1]]]]]] = 5;
+
+        print(niz[1]);
+
+        print(niz[0]);
+        print(niz[1]);
+        print(niz[2]);
+
+        x = niz[1] + pet;
+        print(x);
+        
+        @
+        
+        ime++;
+        
+        
+    }
+}

@@ -1,0 +1,335 @@
+INFO  23:42:10,716 - Compiling source file: C:\Users\user\Desktop\PP_Projekat\PROJEKAT_PRAVI\MJCompiler\test\program.mj
+INFO  23:42:10,755 - #6 program
+INFO  23:42:10,756 - #2 test301
+INFO  23:42:10,756 - #10 const
+INFO  23:42:10,757 - #2 int
+INFO  23:42:10,757 - #2 nula
+INFO  23:42:10,758 - #38 =
+INFO  23:42:10,758 - #3 0
+INFO  23:42:10,758 - #41 ;
+INFO  23:42:10,758 - #10 const
+INFO  23:42:10,759 - #2 int
+INFO  23:42:10,759 - #2 jedan
+INFO  23:42:10,759 - #38 =
+INFO  23:42:10,759 - #3 1
+INFO  23:42:10,759 - #41 ;
+INFO  23:42:10,759 - #10 const
+INFO  23:42:10,760 - #2 int
+INFO  23:42:10,760 - #2 tri
+INFO  23:42:10,760 - #38 =
+INFO  23:42:10,760 - #3 3
+INFO  23:42:10,760 - #41 ;
+INFO  23:42:10,760 - #10 const
+INFO  23:42:10,760 - #2 int
+INFO  23:42:10,761 - #2 pet
+INFO  23:42:10,761 - #38 =
+INFO  23:42:10,761 - #3 5
+INFO  23:42:10,761 - #41 ;
+INFO  23:42:10,761 - #10 const
+INFO  23:42:10,761 - #2 char
+INFO  23:42:10,761 - #2 provera
+INFO  23:42:10,761 - #38 =
+INFO  23:42:10,761 - #4 a
+INFO  23:42:10,761 - #41 ;
+INFO  23:42:10,761 - #10 const
+INFO  23:42:10,762 - #2 bool
+INFO  23:42:10,762 - #2 pozShibi
+INFO  23:42:10,762 - #38 =
+INFO  23:42:10,762 - #5 true
+INFO  23:42:10,762 - #41 ;
+INFO  23:42:10,762 - #2 int
+INFO  23:42:10,762 - #2 niz
+INFO  23:42:10,762 - #48 [
+INFO  23:42:10,762 - #49 ]
+INFO  23:42:10,762 - #41 ;
+INFO  23:42:10,763 - #2 char
+INFO  23:42:10,764 - #2 nizch
+INFO  23:42:10,764 - #48 [
+INFO  23:42:10,764 - #49 ]
+INFO  23:42:10,764 - #41 ;
+INFO  23:42:10,764 - #2 int
+INFO  23:42:10,764 - #2 niza
+INFO  23:42:10,764 - #48 [
+INFO  23:42:10,764 - #49 ]
+INFO  23:42:10,764 - #41 ;
+INFO  23:42:10,764 - #46 {
+INFO  23:42:10,764 - #11 void
+INFO  23:42:10,765 - #2 main
+INFO  23:42:10,766 - #44 (
+INFO  23:42:10,767 - #45 )
+INFO  23:42:10,767 - #2 int
+INFO  23:42:10,768 - #2 bodovi
+INFO  23:42:10,768 - #41 ;
+INFO  23:42:10,768 - #2 int
+INFO  23:42:10,768 - #2 bodovi1
+INFO  23:42:10,769 - #41 ;
+INFO  23:42:10,769 - #2 bool
+INFO  23:42:10,769 - #2 bt
+INFO  23:42:10,769 - #41 ;
+INFO  23:42:10,769 - #2 int
+INFO  23:42:10,776 - #2 bodovi2
+INFO  23:42:10,776 - #41 ;
+INFO  23:42:10,776 - #2 int
+INFO  23:42:10,776 - #2 bodovi3
+INFO  23:42:10,777 - #41 ;
+INFO  23:42:10,777 - #46 {
+INFO  23:42:10,777 - #2 bodovi
+INFO  23:42:10,778 - #38 =
+INFO  23:42:10,778 - #44 (
+INFO  23:42:10,780 - #2 bodovi1
+INFO  23:42:10,780 - #52 ??
+INFO  23:42:10,780 - #2 bodovi2
+INFO  23:42:10,780 - #45 )
+INFO  23:42:10,781 - #52 ??
+INFO  23:42:10,781 - #2 bodovi3
+INFO  23:42:10,781 - #41 ;
+INFO  23:42:10,781 - #47 }
+INFO  23:42:10,782 - #47 }
+INFO  23:42:10,793 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  VarParam(
+    VarParam(
+      VarParam(
+        ConstParam(
+          ConstParam(
+            ConstParam(
+              ConstParam(
+                ConstParam(
+                  ConstParam(
+                    ParamDeclDerived1(
+                    ) [ParamDeclDerived1]
+                    ConstDecl(
+                      Type(
+                       int
+                      ) [Type]
+                      SingleNumberConst(
+                       nula
+                       0
+                      ) [SingleNumberConst]
+                    ) [ConstDecl]
+                  ) [ConstParam]
+                  ConstDecl(
+                    Type(
+                     int
+                    ) [Type]
+                    SingleNumberConst(
+                     jedan
+                     1
+                    ) [SingleNumberConst]
+                  ) [ConstDecl]
+                ) [ConstParam]
+                ConstDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  SingleNumberConst(
+                   tri
+                   3
+                  ) [SingleNumberConst]
+                ) [ConstDecl]
+              ) [ConstParam]
+              ConstDecl(
+                Type(
+                 int
+                ) [Type]
+                SingleNumberConst(
+                 pet
+                 5
+                ) [SingleNumberConst]
+              ) [ConstDecl]
+            ) [ConstParam]
+            ConstDecl(
+              Type(
+               char
+              ) [Type]
+              SingleCharConst(
+               provera
+               a
+              ) [SingleCharConst]
+            ) [ConstDecl]
+          ) [ConstParam]
+          ConstDecl(
+            Type(
+             bool
+            ) [Type]
+            SingleBoolConst(
+             pozShibi
+             true
+            ) [SingleBoolConst]
+          ) [ConstDecl]
+        ) [ConstParam]
+        VarDeclarationArray(
+          Type(
+           int
+          ) [Type]
+         niz
+          NoVarDeclMore(
+          ) [NoVarDeclMore]
+        ) [VarDeclarationArray]
+      ) [VarParam]
+      VarDeclarationArray(
+        Type(
+         char
+        ) [Type]
+       nizch
+        NoVarDeclMore(
+        ) [NoVarDeclMore]
+      ) [VarDeclarationArray]
+    ) [VarParam]
+    VarDeclarationArray(
+      Type(
+       int
+      ) [Type]
+     niza
+      NoVarDeclMore(
+      ) [NoVarDeclMore]
+    ) [VarDeclarationArray]
+  ) [VarParam]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        VoidRetType(
+        ) [VoidRetType]
+       main
+      ) [MethodTypeName]
+      NoFormPars(
+      ) [NoFormPars]
+      VarDeclarations(
+        VarDeclarations(
+          VarDeclarations(
+            VarDeclarations(
+              VarDeclarations(
+                NoVarDecl(
+                ) [NoVarDecl]
+                VarDeclaration(
+                  Type(
+                   int
+                  ) [Type]
+                 bodovi
+                  NoVarDeclMore(
+                  ) [NoVarDeclMore]
+                ) [VarDeclaration]
+              ) [VarDeclarations]
+              VarDeclaration(
+                Type(
+                 int
+                ) [Type]
+               bodovi1
+                NoVarDeclMore(
+                ) [NoVarDeclMore]
+              ) [VarDeclaration]
+            ) [VarDeclarations]
+            VarDeclaration(
+              Type(
+               bool
+              ) [Type]
+             bt
+              NoVarDeclMore(
+              ) [NoVarDeclMore]
+            ) [VarDeclaration]
+          ) [VarDeclarations]
+          VarDeclaration(
+            Type(
+             int
+            ) [Type]
+           bodovi2
+            NoVarDeclMore(
+            ) [NoVarDeclMore]
+          ) [VarDeclaration]
+        ) [VarDeclarations]
+        VarDeclaration(
+          Type(
+           int
+          ) [Type]
+         bodovi3
+          NoVarDeclMore(
+          ) [NoVarDeclMore]
+        ) [VarDeclaration]
+      ) [VarDeclarations]
+      MultiStmtList(
+        NoStmt(
+        ) [NoStmt]
+        DesStmt(
+          DesAssign(
+            DesBasic(
+             bodovi
+            ) [DesBasic]
+            AssignOperator(
+            ) [AssignOperator]
+            BinaryExpr(
+              NoMinus(
+              ) [NoMinus]
+              TermExpr(
+                FactorTerm(
+                  FactExpr(
+                    BinaryExpr(
+                      NoMinus(
+                      ) [NoMinus]
+                      TermExpr(
+                        FactorTerm(
+                          Var(
+                            DesBasic(
+                             bodovi1
+                            ) [DesBasic]
+                          ) [Var]
+                        ) [FactorTerm]
+                      ) [TermExpr]
+                      NoMinus(
+                      ) [NoMinus]
+                      TermExpr(
+                        FactorTerm(
+                          Var(
+                            DesBasic(
+                             bodovi2
+                            ) [DesBasic]
+                          ) [Var]
+                        ) [FactorTerm]
+                      ) [TermExpr]
+                    ) [BinaryExpr]
+                  ) [FactExpr]
+                ) [FactorTerm]
+              ) [TermExpr]
+              NoMinus(
+              ) [NoMinus]
+              TermExpr(
+                FactorTerm(
+                  Var(
+                    DesBasic(
+                     bodovi3
+                    ) [DesBasic]
+                  ) [Var]
+                ) [FactorTerm]
+              ) [TermExpr]
+            ) [BinaryExpr]
+          ) [DesAssign]
+        ) [DesStmt]
+      ) [MultiStmtList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  23:42:10,794 - ===================================
+INFO  23:42:10,797 - Deklarisana je nova konstanta: Vrsta: Const, Ime: nula, Tip: int, Adr: 0, Level: 0, FpPos: 0 na liniji 5
+INFO  23:42:10,797 - Deklarisana je nova konstanta: Vrsta: Const, Ime: jedan, Tip: int, Adr: 1, Level: 0, FpPos: 0 na liniji 6
+INFO  23:42:10,797 - Deklarisana je nova konstanta: Vrsta: Const, Ime: tri, Tip: int, Adr: 3, Level: 0, FpPos: 0 na liniji 7
+INFO  23:42:10,798 - Deklarisana je nova konstanta: Vrsta: Const, Ime: pet, Tip: int, Adr: 5, Level: 0, FpPos: 0 na liniji 8
+INFO  23:42:10,798 - Deklarisana je nova konstanta: Vrsta: Const, Ime: provera, Tip: char, Adr: 97, Level: 0, FpPos: 0 na liniji 9
+INFO  23:42:10,798 - Deklarisana je nova konstanta: Vrsta: Const, Ime: pozShibi, Tip: bool, Adr: 1, Level: 0, FpPos: 0 na liniji 10
+INFO  23:42:10,798 - Deklarisana je nova niz promenljiva: Vrsta: Var, Ime: niz, Tip: int[], Adr: 0, Level: 0, FpPos: 0 na liniji 12
+INFO  23:42:10,798 - Deklarisana je nova niz promenljiva: Vrsta: Var, Ime: nizch, Tip: char[], Adr: 1, Level: 0, FpPos: 0 na liniji 13
+INFO  23:42:10,798 - Deklarisana je nova niz promenljiva: Vrsta: Var, Ime: niza, Tip: int[], Adr: 2, Level: 0, FpPos: 0 na liniji 14
+INFO  23:42:10,798 - Obradjuje se funkcija: Vrsta: Meth, Ime: main, Tip: void, Adr: 0, Level: 0, FpPos: 0 na liniji 17
+INFO  23:42:10,798 - Deklarisana je nova promenljiva: Vrsta: Var, Ime: bodovi, Tip: int, Adr: 0, Level: 1, FpPos: 0 na liniji 18
+INFO  23:42:10,798 - Deklarisana je nova promenljiva: Vrsta: Var, Ime: bodovi1, Tip: int, Adr: 1, Level: 1, FpPos: 0 na liniji 19
+INFO  23:42:10,799 - Deklarisana je nova promenljiva: Vrsta: Var, Ime: bt, Tip: bool, Adr: 2, Level: 1, FpPos: 0 na liniji 20
+INFO  23:42:10,799 - Deklarisana je nova promenljiva: Vrsta: Var, Ime: bodovi2, Tip: int, Adr: 3, Level: 1, FpPos: 0 na liniji 21
+INFO  23:42:10,799 - Deklarisana je nova promenljiva: Vrsta: Var, Ime: bodovi3, Tip: int, Adr: 4, Level: 1, FpPos: 0 na liniji 22
+INFO  23:42:10,799 - Nadjena promenjiva: Vrsta: Var, Ime: bodovi, Tip: int, Adr: 0, Level: 1, FpPos: 0 na liniji 24
+INFO  23:42:10,799 - Nadjena promenjiva: Vrsta: Var, Ime: bodovi1, Tip: int, Adr: 1, Level: 1, FpPos: 0 na liniji 24
+INFO  23:42:10,799 - Nadjena promenjiva: Vrsta: Var, Ime: bodovi2, Tip: int, Adr: 3, Level: 1, FpPos: 0 na liniji 24
+INFO  23:42:10,799 - Nadjena promenjiva: Vrsta: Var, Ime: bodovi3, Tip: int, Adr: 4, Level: 1, FpPos: 0 na liniji 24
+INFO  23:42:10,800 - ===================================
+INFO  23:42:10,821 - Parsiranje uspesno zavrseno!

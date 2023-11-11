@@ -1,0 +1,160 @@
+INFO  00:59:31,755 - Compiling source file: C:\Users\user\Desktop\PP_Projekat\PROJEKAT_PRAVI\MJCompiler\test\program.mj
+INFO  00:59:31,796 - #6 program
+INFO  00:59:31,796 - #2 test301
+INFO  00:59:31,796 - #10 const
+INFO  00:59:31,797 - #2 int
+INFO  00:59:31,798 - #2 nula
+INFO  00:59:31,798 - #38 =
+INFO  00:59:31,799 - #3 0
+INFO  00:59:31,799 - #41 ;
+INFO  00:59:31,799 - #10 const
+INFO  00:59:31,800 - #2 int
+INFO  00:59:31,800 - #2 jedan
+INFO  00:59:31,800 - #38 =
+INFO  00:59:31,800 - #3 1
+INFO  00:59:31,800 - #41 ;
+INFO  00:59:31,800 - #10 const
+INFO  00:59:31,800 - #2 int
+INFO  00:59:31,800 - #2 tri
+INFO  00:59:31,800 - #38 =
+INFO  00:59:31,801 - #3 3
+INFO  00:59:31,801 - #41 ;
+INFO  00:59:31,801 - #10 const
+INFO  00:59:31,801 - #2 int
+INFO  00:59:31,801 - #2 pet
+INFO  00:59:31,801 - #38 =
+INFO  00:59:31,801 - #3 5
+INFO  00:59:31,801 - #41 ;
+INFO  00:59:31,802 - #2 int
+INFO  00:59:31,802 - #2 niz
+INFO  00:59:31,802 - #48 [
+INFO  00:59:31,802 - #49 ]
+INFO  00:59:31,802 - #41 ;
+INFO  00:59:31,803 - #2 char
+INFO  00:59:31,803 - #2 nizch
+INFO  00:59:31,803 - #48 [
+INFO  00:59:31,803 - #49 ]
+INFO  00:59:31,803 - #41 ;
+INFO  00:59:31,803 - #46 {
+INFO  00:59:31,803 - #11 void
+INFO  00:59:31,804 - #2 main
+INFO  00:59:31,805 - #44 (
+INFO  00:59:31,805 - #45 )
+INFO  00:59:31,806 - #2 int
+INFO  00:59:31,807 - #2 bodovi
+INFO  00:59:31,807 - #41 ;
+INFO  00:59:31,807 - #2 bool
+INFO  00:59:31,807 - #2 bt
+INFO  00:59:31,807 - #41 ;
+INFO  00:59:31,807 - #46 {
+INFO  00:59:31,807 - #47 }
+INFO  00:59:31,808 - #47 }
+INFO  00:59:31,811 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  VarParam(
+    VarParam(
+      ConstParam(
+        ConstParam(
+          ConstParam(
+            ConstParam(
+              ParamDeclDerived1(
+              ) [ParamDeclDerived1]
+              ConstDecl(
+                Type(
+                 int
+                ) [Type]
+                SingleNumberConst(
+                 nula
+                 0
+                ) [SingleNumberConst]
+              ) [ConstDecl]
+            ) [ConstParam]
+            ConstDecl(
+              Type(
+               int
+              ) [Type]
+              SingleNumberConst(
+               jedan
+               1
+              ) [SingleNumberConst]
+            ) [ConstDecl]
+          ) [ConstParam]
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            SingleNumberConst(
+             tri
+             3
+            ) [SingleNumberConst]
+          ) [ConstDecl]
+        ) [ConstParam]
+        ConstDecl(
+          Type(
+           int
+          ) [Type]
+          SingleNumberConst(
+           pet
+           5
+          ) [SingleNumberConst]
+        ) [ConstDecl]
+      ) [ConstParam]
+      VarDeclarationArray(
+        Type(
+         int
+        ) [Type]
+       niz
+        NoVarDeclMore(
+        ) [NoVarDeclMore]
+      ) [VarDeclarationArray]
+    ) [VarParam]
+    VarDeclarationArray(
+      Type(
+       char
+      ) [Type]
+     nizch
+      NoVarDeclMore(
+      ) [NoVarDeclMore]
+    ) [VarDeclarationArray]
+  ) [VarParam]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        VoidRetType(
+        ) [VoidRetType]
+       main
+      ) [MethodTypeName]
+      NoFormPars(
+      ) [NoFormPars]
+      VarDeclarations(
+        VarDeclarations(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDeclaration(
+            Type(
+             int
+            ) [Type]
+           bodovi
+            NoVarDeclMore(
+            ) [NoVarDeclMore]
+          ) [VarDeclaration]
+        ) [VarDeclarations]
+        VarDeclaration(
+          Type(
+           bool
+          ) [Type]
+         bt
+          NoVarDeclMore(
+          ) [NoVarDeclMore]
+        ) [VarDeclaration]
+      ) [VarDeclarations]
+      NoStmt(
+      ) [NoStmt]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  00:59:31,811 - ===================================

@@ -1,0 +1,751 @@
+INFO  01:54:51,368 - Compiling source file: C:\Users\user\Desktop\PP_Projekat\PROJEKAT_PRAVI\MJCompiler\test\program.mj
+INFO  01:54:51,408 - #6 program
+INFO  01:54:51,408 - #2 test301
+INFO  01:54:51,408 - #10 const
+INFO  01:54:51,410 - #2 int
+INFO  01:54:51,410 - #2 nula
+INFO  01:54:51,410 - #38 =
+INFO  01:54:51,411 - #3 0
+INFO  01:54:51,411 - #41 ;
+INFO  01:54:51,411 - #10 const
+INFO  01:54:51,412 - #2 int
+INFO  01:54:51,412 - #2 jedan
+INFO  01:54:51,412 - #38 =
+INFO  01:54:51,412 - #3 1
+INFO  01:54:51,412 - #41 ;
+INFO  01:54:51,412 - #10 const
+INFO  01:54:51,413 - #2 int
+INFO  01:54:51,413 - #2 tri
+INFO  01:54:51,413 - #38 =
+INFO  01:54:51,413 - #3 3
+INFO  01:54:51,413 - #41 ;
+INFO  01:54:51,413 - #10 const
+INFO  01:54:51,414 - #2 int
+INFO  01:54:51,414 - #2 pet
+INFO  01:54:51,414 - #38 =
+INFO  01:54:51,414 - #3 5
+INFO  01:54:51,414 - #41 ;
+INFO  01:54:51,414 - #2 int
+INFO  01:54:51,414 - #2 niz
+INFO  01:54:51,414 - #48 [
+INFO  01:54:51,414 - #49 ]
+INFO  01:54:51,414 - #41 ;
+INFO  01:54:51,415 - #2 char
+INFO  01:54:51,416 - #2 nizch
+INFO  01:54:51,416 - #48 [
+INFO  01:54:51,416 - #49 ]
+INFO  01:54:51,416 - #41 ;
+INFO  01:54:51,416 - #46 {
+INFO  01:54:51,416 - #11 void
+INFO  01:54:51,417 - #2 main
+INFO  01:54:51,417 - #44 (
+INFO  01:54:51,418 - #45 )
+INFO  01:54:51,419 - #2 int
+INFO  01:54:51,419 - #2 bodovi
+INFO  01:54:51,419 - #41 ;
+INFO  01:54:51,419 - #2 bool
+INFO  01:54:51,420 - #2 bt
+INFO  01:54:51,420 - #41 ;
+INFO  01:54:51,420 - #46 {
+INFO  01:54:51,420 - #2 bodovi
+INFO  01:54:51,421 - #38 =
+INFO  01:54:51,421 - #3 0
+INFO  01:54:51,423 - #41 ;
+INFO  01:54:51,424 - #2 bodovi
+INFO  01:54:51,424 - #39 ++
+INFO  01:54:51,424 - #41 ;
+INFO  01:54:51,425 - #2 bodovi
+INFO  01:54:51,425 - #38 =
+INFO  01:54:51,425 - #2 bodovi
+INFO  01:54:51,425 - #27 *
+INFO  01:54:51,425 - #2 pet
+INFO  01:54:51,426 - #41 ;
+INFO  01:54:51,426 - #2 bodovi
+INFO  01:54:51,426 - #40 --
+INFO  01:54:51,427 - #41 ;
+INFO  01:54:51,427 - #23 print
+INFO  01:54:51,427 - #44 (
+INFO  01:54:51,427 - #2 bodovi
+INFO  01:54:51,427 - #45 )
+INFO  01:54:51,427 - #41 ;
+INFO  01:54:51,427 - #2 niz
+INFO  01:54:51,435 - #38 =
+INFO  01:54:51,435 - #18 new
+INFO  01:54:51,435 - #2 int
+INFO  01:54:51,435 - #48 [
+INFO  01:54:51,435 - #3 3
+INFO  01:54:51,435 - #49 ]
+INFO  01:54:51,435 - #41 ;
+INFO  01:54:51,435 - #2 niz
+INFO  01:54:51,435 - #48 [
+INFO  01:54:51,436 - #2 nula
+INFO  01:54:51,436 - #49 ]
+INFO  01:54:51,437 - #38 =
+INFO  01:54:51,437 - #2 jedan
+INFO  01:54:51,437 - #41 ;
+INFO  01:54:51,437 - #2 niz
+INFO  01:54:51,437 - #48 [
+INFO  01:54:51,437 - #3 1
+INFO  01:54:51,437 - #49 ]
+INFO  01:54:51,438 - #38 =
+INFO  01:54:51,438 - #3 2
+INFO  01:54:51,438 - #41 ;
+INFO  01:54:51,438 - #23 print
+INFO  01:54:51,438 - #44 (
+INFO  01:54:51,438 - #2 bodovi
+INFO  01:54:51,438 - #45 )
+INFO  01:54:51,439 - #41 ;
+INFO  01:54:51,439 - #2 nizch
+INFO  01:54:51,439 - #38 =
+INFO  01:54:51,439 - #18 new
+INFO  01:54:51,439 - #2 char
+INFO  01:54:51,439 - #48 [
+INFO  01:54:51,439 - #3 3
+INFO  01:54:51,439 - #49 ]
+INFO  01:54:51,439 - #41 ;
+INFO  01:54:51,440 - #2 nizch
+INFO  01:54:51,440 - #48 [
+INFO  01:54:51,440 - #3 0
+INFO  01:54:51,440 - #49 ]
+INFO  01:54:51,440 - #38 =
+INFO  01:54:51,440 - #4 a
+INFO  01:54:51,440 - #41 ;
+INFO  01:54:51,440 - #2 nizch
+INFO  01:54:51,440 - #48 [
+INFO  01:54:51,440 - #2 jedan
+INFO  01:54:51,441 - #49 ]
+INFO  01:54:51,441 - #38 =
+INFO  01:54:51,441 - #4 b
+INFO  01:54:51,441 - #41 ;
+INFO  01:54:51,441 - #2 nizch
+INFO  01:54:51,441 - #48 [
+INFO  01:54:51,441 - #2 pet
+INFO  01:54:51,441 - #26 -
+INFO  01:54:51,441 - #3 3
+INFO  01:54:51,443 - #49 ]
+INFO  01:54:51,443 - #38 =
+INFO  01:54:51,443 - #4 c
+INFO  01:54:51,444 - #41 ;
+INFO  01:54:51,444 - #2 bodovi
+INFO  01:54:51,444 - #38 =
+INFO  01:54:51,444 - #2 bodovi
+INFO  01:54:51,444 - #25 +
+INFO  01:54:51,444 - #44 (
+INFO  01:54:51,445 - #2 pet
+INFO  01:54:51,445 - #27 *
+INFO  01:54:51,446 - #2 jedan
+INFO  01:54:51,446 - #26 -
+INFO  01:54:51,446 - #3 1
+INFO  01:54:51,446 - #45 )
+INFO  01:54:51,446 - #27 *
+INFO  01:54:51,446 - #2 bodovi
+INFO  01:54:51,446 - #26 -
+INFO  01:54:51,446 - #44 (
+INFO  01:54:51,446 - #3 3
+INFO  01:54:51,446 - #29 %
+INFO  01:54:51,447 - #3 2
+INFO  01:54:51,448 - #25 +
+INFO  01:54:51,448 - #3 3
+INFO  01:54:51,448 - #27 *
+INFO  01:54:51,448 - #3 2
+INFO  01:54:51,448 - #26 -
+INFO  01:54:51,448 - #3 3
+INFO  01:54:51,448 - #45 )
+INFO  01:54:51,448 - #41 ;
+INFO  01:54:51,449 - #24 read
+INFO  01:54:51,449 - #44 (
+INFO  01:54:51,449 - #2 bodovi
+INFO  01:54:51,449 - #45 )
+INFO  01:54:51,449 - #41 ;
+INFO  01:54:51,449 - #47 }
+INFO  01:54:51,449 - #47 }
+INFO  01:54:51,454 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  VarParam(
+    VarParam(
+      ConstParam(
+        ConstParam(
+          ConstParam(
+            ConstParam(
+              ParamDeclDerived1(
+              ) [ParamDeclDerived1]
+              ConstDecl(
+                Type(
+                 int
+                ) [Type]
+                SingleNumberConst(
+                 nula
+                 0
+                ) [SingleNumberConst]
+              ) [ConstDecl]
+            ) [ConstParam]
+            ConstDecl(
+              Type(
+               int
+              ) [Type]
+              SingleNumberConst(
+               jedan
+               1
+              ) [SingleNumberConst]
+            ) [ConstDecl]
+          ) [ConstParam]
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            SingleNumberConst(
+             tri
+             3
+            ) [SingleNumberConst]
+          ) [ConstDecl]
+        ) [ConstParam]
+        ConstDecl(
+          Type(
+           int
+          ) [Type]
+          SingleNumberConst(
+           pet
+           5
+          ) [SingleNumberConst]
+        ) [ConstDecl]
+      ) [ConstParam]
+      VarDeclarationArray(
+        Type(
+         int
+        ) [Type]
+       niz
+        NoVarDeclMore(
+        ) [NoVarDeclMore]
+      ) [VarDeclarationArray]
+    ) [VarParam]
+    VarDeclarationArray(
+      Type(
+       char
+      ) [Type]
+     nizch
+      NoVarDeclMore(
+      ) [NoVarDeclMore]
+    ) [VarDeclarationArray]
+  ) [VarParam]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        VoidRetType(
+        ) [VoidRetType]
+       main
+      ) [MethodTypeName]
+      NoFormPars(
+      ) [NoFormPars]
+      VarDeclarations(
+        VarDeclarations(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDeclaration(
+            Type(
+             int
+            ) [Type]
+           bodovi
+            NoVarDeclMore(
+            ) [NoVarDeclMore]
+          ) [VarDeclaration]
+        ) [VarDeclarations]
+        VarDeclaration(
+          Type(
+           bool
+          ) [Type]
+         bt
+          NoVarDeclMore(
+          ) [NoVarDeclMore]
+        ) [VarDeclaration]
+      ) [VarDeclarations]
+      MultiStmtList(
+        MultiStmtList(
+          MultiStmtList(
+            MultiStmtList(
+              MultiStmtList(
+                MultiStmtList(
+                  MultiStmtList(
+                    MultiStmtList(
+                      MultiStmtList(
+                        MultiStmtList(
+                          MultiStmtList(
+                            MultiStmtList(
+                              MultiStmtList(
+                                MultiStmtList(
+                                  MultiStmtList(
+                                    NoStmt(
+                                    ) [NoStmt]
+                                    DesStmt(
+                                      DesAssign(
+                                        DesBasic(
+                                         bodovi
+                                        ) [DesBasic]
+                                        AssignOperator(
+                                        ) [AssignOperator]
+                                        ExprMinus(
+                                          MinusNo(
+                                          ) [MinusNo]
+                                          ExprFactorTerm(
+                                            FactorTerm(
+                                              NumConst(
+                                               0
+                                              ) [NumConst]
+                                            ) [FactorTerm]
+                                          ) [ExprFactorTerm]
+                                        ) [ExprMinus]
+                                      ) [DesAssign]
+                                    ) [DesStmt]
+                                  ) [MultiStmtList]
+                                  DesStmt(
+                                    VarInc(
+                                      DesBasic(
+                                       bodovi
+                                      ) [DesBasic]
+                                    ) [VarInc]
+                                  ) [DesStmt]
+                                ) [MultiStmtList]
+                                DesStmt(
+                                  DesAssign(
+                                    DesBasic(
+                                     bodovi
+                                    ) [DesBasic]
+                                    AssignOperator(
+                                    ) [AssignOperator]
+                                    ExprMinus(
+                                      MinusNo(
+                                      ) [MinusNo]
+                                      ExprFactorTerm(
+                                        MulopTerm(
+                                          FactorTerm(
+                                            FactorIdent(
+                                             bodovi
+                                            ) [FactorIdent]
+                                          ) [FactorTerm]
+                                          MulOperator(
+                                          ) [MulOperator]
+                                          FactorIdent(
+                                           pet
+                                          ) [FactorIdent]
+                                        ) [MulopTerm]
+                                      ) [ExprFactorTerm]
+                                    ) [ExprMinus]
+                                  ) [DesAssign]
+                                ) [DesStmt]
+                              ) [MultiStmtList]
+                              DesStmt(
+                                VarDec(
+                                  DesBasic(
+                                   bodovi
+                                  ) [DesBasic]
+                                ) [VarDec]
+                              ) [DesStmt]
+                            ) [MultiStmtList]
+                            SingleStmtLabelNoLabel(
+                              PrintStmt(
+                                ExprMinus(
+                                  MinusNo(
+                                  ) [MinusNo]
+                                  ExprFactorTerm(
+                                    FactorTerm(
+                                      FactorIdent(
+                                       bodovi
+                                      ) [FactorIdent]
+                                    ) [FactorTerm]
+                                  ) [ExprFactorTerm]
+                                ) [ExprMinus]
+                              ) [PrintStmt]
+                            ) [SingleStmtLabelNoLabel]
+                          ) [MultiStmtList]
+                          DesStmt(
+                            DesAssign(
+                              DesBasic(
+                               niz
+                              ) [DesBasic]
+                              AssignOperator(
+                              ) [AssignOperator]
+                              ExprMinus(
+                                MinusNo(
+                                ) [MinusNo]
+                                ExprFactorTerm(
+                                  FactorTerm(
+                                    NewArray(
+                                      Type(
+                                       int
+                                      ) [Type]
+                                      ExprMinus(
+                                        MinusNo(
+                                        ) [MinusNo]
+                                        ExprFactorTerm(
+                                          FactorTerm(
+                                            NumConst(
+                                             3
+                                            ) [NumConst]
+                                          ) [FactorTerm]
+                                        ) [ExprFactorTerm]
+                                      ) [ExprMinus]
+                                    ) [NewArray]
+                                  ) [FactorTerm]
+                                ) [ExprFactorTerm]
+                              ) [ExprMinus]
+                            ) [DesAssign]
+                          ) [DesStmt]
+                        ) [MultiStmtList]
+                        DesStmt(
+                          DesAssign(
+                            DesArray(
+                              DesignatorArrayName(
+                               niz
+                              ) [DesignatorArrayName]
+                              ExprMinus(
+                                MinusNo(
+                                ) [MinusNo]
+                                ExprFactorTerm(
+                                  FactorTerm(
+                                    FactorIdent(
+                                     nula
+                                    ) [FactorIdent]
+                                  ) [FactorTerm]
+                                ) [ExprFactorTerm]
+                              ) [ExprMinus]
+                            ) [DesArray]
+                            AssignOperator(
+                            ) [AssignOperator]
+                            ExprMinus(
+                              MinusNo(
+                              ) [MinusNo]
+                              ExprFactorTerm(
+                                FactorTerm(
+                                  FactorIdent(
+                                   jedan
+                                  ) [FactorIdent]
+                                ) [FactorTerm]
+                              ) [ExprFactorTerm]
+                            ) [ExprMinus]
+                          ) [DesAssign]
+                        ) [DesStmt]
+                      ) [MultiStmtList]
+                      DesStmt(
+                        DesAssign(
+                          DesArray(
+                            DesignatorArrayName(
+                             niz
+                            ) [DesignatorArrayName]
+                            ExprMinus(
+                              MinusNo(
+                              ) [MinusNo]
+                              ExprFactorTerm(
+                                FactorTerm(
+                                  NumConst(
+                                   1
+                                  ) [NumConst]
+                                ) [FactorTerm]
+                              ) [ExprFactorTerm]
+                            ) [ExprMinus]
+                          ) [DesArray]
+                          AssignOperator(
+                          ) [AssignOperator]
+                          ExprMinus(
+                            MinusNo(
+                            ) [MinusNo]
+                            ExprFactorTerm(
+                              FactorTerm(
+                                NumConst(
+                                 2
+                                ) [NumConst]
+                              ) [FactorTerm]
+                            ) [ExprFactorTerm]
+                          ) [ExprMinus]
+                        ) [DesAssign]
+                      ) [DesStmt]
+                    ) [MultiStmtList]
+                    SingleStmtLabelNoLabel(
+                      PrintStmt(
+                        ExprMinus(
+                          MinusNo(
+                          ) [MinusNo]
+                          ExprFactorTerm(
+                            FactorTerm(
+                              FactorIdent(
+                               bodovi
+                              ) [FactorIdent]
+                            ) [FactorTerm]
+                          ) [ExprFactorTerm]
+                        ) [ExprMinus]
+                      ) [PrintStmt]
+                    ) [SingleStmtLabelNoLabel]
+                  ) [MultiStmtList]
+                  DesStmt(
+                    DesAssign(
+                      DesBasic(
+                       nizch
+                      ) [DesBasic]
+                      AssignOperator(
+                      ) [AssignOperator]
+                      ExprMinus(
+                        MinusNo(
+                        ) [MinusNo]
+                        ExprFactorTerm(
+                          FactorTerm(
+                            NewArray(
+                              Type(
+                               char
+                              ) [Type]
+                              ExprMinus(
+                                MinusNo(
+                                ) [MinusNo]
+                                ExprFactorTerm(
+                                  FactorTerm(
+                                    NumConst(
+                                     3
+                                    ) [NumConst]
+                                  ) [FactorTerm]
+                                ) [ExprFactorTerm]
+                              ) [ExprMinus]
+                            ) [NewArray]
+                          ) [FactorTerm]
+                        ) [ExprFactorTerm]
+                      ) [ExprMinus]
+                    ) [DesAssign]
+                  ) [DesStmt]
+                ) [MultiStmtList]
+                DesStmt(
+                  DesAssign(
+                    DesArray(
+                      DesignatorArrayName(
+                       nizch
+                      ) [DesignatorArrayName]
+                      ExprMinus(
+                        MinusNo(
+                        ) [MinusNo]
+                        ExprFactorTerm(
+                          FactorTerm(
+                            NumConst(
+                             0
+                            ) [NumConst]
+                          ) [FactorTerm]
+                        ) [ExprFactorTerm]
+                      ) [ExprMinus]
+                    ) [DesArray]
+                    AssignOperator(
+                    ) [AssignOperator]
+                    ExprMinus(
+                      MinusNo(
+                      ) [MinusNo]
+                      ExprFactorTerm(
+                        FactorTerm(
+                          CharConst(
+                           a
+                          ) [CharConst]
+                        ) [FactorTerm]
+                      ) [ExprFactorTerm]
+                    ) [ExprMinus]
+                  ) [DesAssign]
+                ) [DesStmt]
+              ) [MultiStmtList]
+              DesStmt(
+                DesAssign(
+                  DesArray(
+                    DesignatorArrayName(
+                     nizch
+                    ) [DesignatorArrayName]
+                    ExprMinus(
+                      MinusNo(
+                      ) [MinusNo]
+                      ExprFactorTerm(
+                        FactorTerm(
+                          FactorIdent(
+                           jedan
+                          ) [FactorIdent]
+                        ) [FactorTerm]
+                      ) [ExprFactorTerm]
+                    ) [ExprMinus]
+                  ) [DesArray]
+                  AssignOperator(
+                  ) [AssignOperator]
+                  ExprMinus(
+                    MinusNo(
+                    ) [MinusNo]
+                    ExprFactorTerm(
+                      FactorTerm(
+                        CharConst(
+                         b
+                        ) [CharConst]
+                      ) [FactorTerm]
+                    ) [ExprFactorTerm]
+                  ) [ExprMinus]
+                ) [DesAssign]
+              ) [DesStmt]
+            ) [MultiStmtList]
+            DesStmt(
+              DesAssign(
+                DesArray(
+                  DesignatorArrayName(
+                   nizch
+                  ) [DesignatorArrayName]
+                  ExprMinus(
+                    MinusNo(
+                    ) [MinusNo]
+                    ExprMulopTerm(
+                      ExprFactorTerm(
+                        FactorTerm(
+                          FactorIdent(
+                           pet
+                          ) [FactorIdent]
+                        ) [FactorTerm]
+                      ) [ExprFactorTerm]
+                      SubOperator(
+                      ) [SubOperator]
+                      FactorTerm(
+                        NumConst(
+                         3
+                        ) [NumConst]
+                      ) [FactorTerm]
+                    ) [ExprMulopTerm]
+                  ) [ExprMinus]
+                ) [DesArray]
+                AssignOperator(
+                ) [AssignOperator]
+                ExprMinus(
+                  MinusNo(
+                  ) [MinusNo]
+                  ExprFactorTerm(
+                    FactorTerm(
+                      CharConst(
+                       c
+                      ) [CharConst]
+                    ) [FactorTerm]
+                  ) [ExprFactorTerm]
+                ) [ExprMinus]
+              ) [DesAssign]
+            ) [DesStmt]
+          ) [MultiStmtList]
+          DesStmt(
+            DesAssign(
+              DesBasic(
+               bodovi
+              ) [DesBasic]
+              AssignOperator(
+              ) [AssignOperator]
+              ExprMinus(
+                MinusNo(
+                ) [MinusNo]
+                ExprMulopTerm(
+                  ExprMulopTerm(
+                    ExprFactorTerm(
+                      FactorTerm(
+                        FactorIdent(
+                         bodovi
+                        ) [FactorIdent]
+                      ) [FactorTerm]
+                    ) [ExprFactorTerm]
+                    AddOperator(
+                    ) [AddOperator]
+                    MulopTerm(
+                      FactorTerm(
+                        FactExpr(
+                          ExprMinus(
+                            MinusNo(
+                            ) [MinusNo]
+                            ExprMulopTerm(
+                              ExprFactorTerm(
+                                MulopTerm(
+                                  FactorTerm(
+                                    FactorIdent(
+                                     pet
+                                    ) [FactorIdent]
+                                  ) [FactorTerm]
+                                  MulOperator(
+                                  ) [MulOperator]
+                                  FactorIdent(
+                                   jedan
+                                  ) [FactorIdent]
+                                ) [MulopTerm]
+                              ) [ExprFactorTerm]
+                              SubOperator(
+                              ) [SubOperator]
+                              FactorTerm(
+                                NumConst(
+                                 1
+                                ) [NumConst]
+                              ) [FactorTerm]
+                            ) [ExprMulopTerm]
+                          ) [ExprMinus]
+                        ) [FactExpr]
+                      ) [FactorTerm]
+                      MulOperator(
+                      ) [MulOperator]
+                      FactorIdent(
+                       bodovi
+                      ) [FactorIdent]
+                    ) [MulopTerm]
+                  ) [ExprMulopTerm]
+                  SubOperator(
+                  ) [SubOperator]
+                  FactorTerm(
+                    FactExpr(
+                      ExprMinus(
+                        MinusNo(
+                        ) [MinusNo]
+                        ExprMulopTerm(
+                          ExprMulopTerm(
+                            ExprFactorTerm(
+                              MulopTerm(
+                                FactorTerm(
+                                  NumConst(
+                                   3
+                                  ) [NumConst]
+                                ) [FactorTerm]
+                                ModOperator(
+                                ) [ModOperator]
+                                NumConst(
+                                 2
+                                ) [NumConst]
+                              ) [MulopTerm]
+                            ) [ExprFactorTerm]
+                            AddOperator(
+                            ) [AddOperator]
+                            MulopTerm(
+                              FactorTerm(
+                                NumConst(
+                                 3
+                                ) [NumConst]
+                              ) [FactorTerm]
+                              MulOperator(
+                              ) [MulOperator]
+                              NumConst(
+                               2
+                              ) [NumConst]
+                            ) [MulopTerm]
+                          ) [ExprMulopTerm]
+                          SubOperator(
+                          ) [SubOperator]
+                          FactorTerm(
+                            NumConst(
+                             3
+                            ) [NumConst]
+                          ) [FactorTerm]
+                        ) [ExprMulopTerm]
+                      ) [ExprMinus]
+                    ) [FactExpr]
+                  ) [FactorTerm]
+                ) [ExprMulopTerm]
+              ) [ExprMinus]
+            ) [DesAssign]
+          ) [DesStmt]
+        ) [MultiStmtList]
+        SingleStmtLabelNoLabel(
+          ReadStmt(
+            DesBasic(
+             bodovi
+            ) [DesBasic]
+          ) [ReadStmt]
+        ) [SingleStmtLabelNoLabel]
+      ) [MultiStmtList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  01:54:51,455 - ===================================

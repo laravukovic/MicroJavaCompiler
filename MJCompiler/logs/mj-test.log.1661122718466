@@ -1,0 +1,15 @@
+INFO  00:57:13,021 - Compiling source file: C:\Users\user\Desktop\PP_Projekat\PROJEKAT_PRAVI\MJCompiler\test\program.mj
+INFO  00:57:13,063 - #6 program
+INFO  00:57:13,063 - #2 test301
+INFO  00:57:13,063 - #46 {
+INFO  00:57:13,064 - #47 }
+INFO  00:57:13,066 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  ParamDeclDerived1(
+  ) [ParamDeclDerived1]
+  NoMethodDeclarations(
+  ) [NoMethodDeclarations]
+) [Program]
+INFO  00:57:13,066 - ===================================

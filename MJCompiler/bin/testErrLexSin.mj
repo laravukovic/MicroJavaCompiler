@@ -1,0 +1,23 @@
+program test301
+	const int x = 3;
+	~int a;
+{
+    void main()
+    	int p;
+    {   	
+    	print(x);
+    	a = x;
+    	print(a);
+    	
+    	a = ;
+    	a++;
+    	print(a);
+    	
+    	a--;
+    	print(a) + 4;
+    	
+    	a = -a;
+    	print(a);
+    }
+    	
+}

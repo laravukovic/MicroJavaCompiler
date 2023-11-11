@@ -1,0 +1,205 @@
+INFO  21:16:49,081 - Compiling source file: C:\Users\user\Desktop\PP_Projekat\PROJEKAT_PRAVI\MJCompiler\test\program.mj
+INFO  21:16:49,142 - #6 program
+INFO  21:16:49,143 - #2 test301
+INFO  21:16:49,143 - #2 int
+INFO  21:16:49,145 - #2 niz
+INFO  21:16:49,146 - #41 ;
+INFO  21:16:49,147 - #46 {
+INFO  21:16:49,148 - #11 void
+INFO  21:16:49,149 - #2 main
+INFO  21:16:49,150 - #44 (
+INFO  21:16:49,151 - #45 )
+INFO  21:16:49,152 - #2 int
+INFO  21:16:49,153 - #2 bodovi
+INFO  21:16:49,153 - #41 ;
+INFO  21:16:49,153 - #2 int
+INFO  21:16:49,153 - #2 rez
+INFO  21:16:49,153 - #41 ;
+INFO  21:16:49,153 - #46 {
+INFO  21:16:49,153 - #2 bodovi
+INFO  21:16:49,154 - #38 =
+INFO  21:16:49,155 - #3 8
+INFO  21:16:49,157 - #41 ;
+INFO  21:16:49,158 - #2 int
+INFO  21:16:49,159 - #38 =
+INFO  21:16:49,159 - #3 2
+INFO  21:16:49,159 - #41 ;
+INFO  21:16:49,159 - #2 rez
+INFO  21:16:49,159 - #38 =
+INFO  21:16:49,159 - #2 bodovi
+INFO  21:16:49,159 - #25 +
+INFO  21:16:49,159 - #2 int
+INFO  21:16:49,161 - #41 ;
+INFO  21:16:49,161 - #23 print
+INFO  21:16:49,161 - #44 (
+INFO  21:16:49,161 - #2 rez
+INFO  21:16:49,161 - #45 )
+INFO  21:16:49,161 - #41 ;
+INFO  21:16:49,161 - #47 }
+INFO  21:16:49,162 - #47 }
+INFO  21:16:49,174 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  VarParam(
+    ParamDeclDerived1(
+    ) [ParamDeclDerived1]
+    VarDeclaration(
+      Type(
+       int
+      ) [Type]
+     niz
+      NoVarDeclMore(
+      ) [NoVarDeclMore]
+    ) [VarDeclaration]
+  ) [VarParam]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        VoidRetType(
+        ) [VoidRetType]
+       main
+      ) [MethodTypeName]
+      NoFormPars(
+      ) [NoFormPars]
+      VarDeclarations(
+        VarDeclarations(
+          NoVarDecl(
+          ) [NoVarDecl]
+          VarDeclaration(
+            Type(
+             int
+            ) [Type]
+           bodovi
+            NoVarDeclMore(
+            ) [NoVarDeclMore]
+          ) [VarDeclaration]
+        ) [VarDeclarations]
+        VarDeclaration(
+          Type(
+           int
+          ) [Type]
+         rez
+          NoVarDeclMore(
+          ) [NoVarDeclMore]
+        ) [VarDeclaration]
+      ) [VarDeclarations]
+      MultiStmtList(
+        MultiStmtList(
+          MultiStmtList(
+            MultiStmtList(
+              NoStmt(
+              ) [NoStmt]
+              DesStmt(
+                DesAssign(
+                  DesBasic(
+                   bodovi
+                  ) [DesBasic]
+                  AssignOperator(
+                  ) [AssignOperator]
+                  BasicExpr(
+                    NoMinus(
+                    ) [NoMinus]
+                    TermExpr(
+                      FactorTerm(
+                        NumConst(
+                         8
+                        ) [NumConst]
+                      ) [FactorTerm]
+                    ) [TermExpr]
+                  ) [BasicExpr]
+                ) [DesAssign]
+              ) [DesStmt]
+            ) [MultiStmtList]
+            DesStmt(
+              DesAssign(
+                DesBasic(
+                 int
+                ) [DesBasic]
+                AssignOperator(
+                ) [AssignOperator]
+                BasicExpr(
+                  NoMinus(
+                  ) [NoMinus]
+                  TermExpr(
+                    FactorTerm(
+                      NumConst(
+                       2
+                      ) [NumConst]
+                    ) [FactorTerm]
+                  ) [TermExpr]
+                ) [BasicExpr]
+              ) [DesAssign]
+            ) [DesStmt]
+          ) [MultiStmtList]
+          DesStmt(
+            DesAssign(
+              DesBasic(
+               rez
+              ) [DesBasic]
+              AssignOperator(
+              ) [AssignOperator]
+              BasicExpr(
+                NoMinus(
+                ) [NoMinus]
+                AddExpr(
+                  TermExpr(
+                    FactorTerm(
+                      Var(
+                        DesBasic(
+                         bodovi
+                        ) [DesBasic]
+                      ) [Var]
+                    ) [FactorTerm]
+                  ) [TermExpr]
+                  AddOperator(
+                  ) [AddOperator]
+                  FactorTerm(
+                    Var(
+                      DesBasic(
+                       int
+                      ) [DesBasic]
+                    ) [Var]
+                  ) [FactorTerm]
+                ) [AddExpr]
+              ) [BasicExpr]
+            ) [DesAssign]
+          ) [DesStmt]
+        ) [MultiStmtList]
+        SingleStmtLabelNoLabel(
+          PrintStmt(
+            BasicExpr(
+              NoMinus(
+              ) [NoMinus]
+              TermExpr(
+                FactorTerm(
+                  Var(
+                    DesBasic(
+                     rez
+                    ) [DesBasic]
+                  ) [Var]
+                ) [FactorTerm]
+              ) [TermExpr]
+            ) [BasicExpr]
+          ) [PrintStmt]
+        ) [SingleStmtLabelNoLabel]
+      ) [MultiStmtList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  21:16:49,175 - ===================================
+INFO  21:16:49,179 - Deklarisana je nova promenljiva: Vrsta: Var, Ime: niz, Tip: int, Adr: 0, Level: 0, FpPos: 0 na liniji 5
+INFO  21:16:49,180 - Obradjuje se funkcija: Vrsta: Meth, Ime: main, Tip: void, Adr: 0, Level: 0, FpPos: 0 na liniji 8
+INFO  21:16:49,180 - Deklarisana je nova promenljiva: Vrsta: Var, Ime: bodovi, Tip: int, Adr: 0, Level: 1, FpPos: 0 na liniji 9
+INFO  21:16:49,180 - Deklarisana je nova promenljiva: Vrsta: Var, Ime: rez, Tip: int, Adr: 1, Level: 1, FpPos: 0 na liniji 10
+INFO  21:16:49,180 - Nadjena promenjiva: Vrsta: Var, Ime: bodovi, Tip: int, Adr: 0, Level: 1, FpPos: 0 na liniji 13
+INFO  21:16:49,181 - Nadjena promenjiva: Vrsta: Type, Ime: int, Tip: int, Adr: -1, Level: -1, FpPos: 0 na liniji 14
+ERROR 21:16:49,181 - Greska : simbol mora biti promenljiva, ili element niza na liniji 14
+INFO  21:16:49,181 - Nadjena promenjiva: Vrsta: Var, Ime: rez, Tip: int, Adr: 1, Level: 1, FpPos: 0 na liniji 15
+INFO  21:16:49,182 - Nadjena promenjiva: Vrsta: Var, Ime: bodovi, Tip: int, Adr: 0, Level: 1, FpPos: 0 na liniji 15
+INFO  21:16:49,182 - Nadjena promenjiva: Vrsta: Type, Ime: int, Tip: int, Adr: -1, Level: -1, FpPos: 0 na liniji 15
+INFO  21:16:49,182 - Nadjena promenjiva: Vrsta: Var, Ime: rez, Tip: int, Adr: 1, Level: 1, FpPos: 0 na liniji 16
+INFO  21:16:49,183 - ===================================
+INFO  21:16:49,205 - Parsiranje uspesno zavrseno!

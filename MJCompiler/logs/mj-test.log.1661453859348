@@ -1,0 +1,111 @@
+INFO  20:36:12,253 - Compiling source file: C:\Users\user\Desktop\PP_Projekat\PROJEKAT_PRAVI\MJCompiler\test\program.mj
+INFO  20:36:12,300 - #6 program
+INFO  20:36:12,300 - #2 test301
+INFO  20:36:12,300 - #2 int
+INFO  20:36:12,301 - #2 x
+INFO  20:36:12,302 - #41 ;
+INFO  20:36:12,303 - #2 int
+INFO  20:36:12,303 - #2 y
+INFO  20:36:12,303 - #41 ;
+INFO  20:36:12,303 - #46 {
+INFO  20:36:12,303 - #11 void
+INFO  20:36:12,304 - #2 main
+INFO  20:36:12,304 - #44 (
+INFO  20:36:12,305 - #45 )
+INFO  20:36:12,306 - #46 {
+INFO  20:36:12,306 - #23 print
+INFO  20:36:12,307 - #44 (
+INFO  20:36:12,307 - #3 1
+INFO  20:36:12,308 - #45 )
+INFO  20:36:12,309 - #41 ;
+INFO  20:36:12,309 - #23 print
+INFO  20:36:12,310 - #44 (
+INFO  20:36:12,311 - #3 2
+INFO  20:36:12,311 - #45 )
+INFO  20:36:12,311 - #41 ;
+INFO  20:36:12,311 - #47 }
+INFO  20:36:12,311 - #47 }
+INFO  20:36:12,322 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  VarParam(
+    VarParam(
+      ParamDeclDerived1(
+      ) [ParamDeclDerived1]
+      VarDeclaration(
+        Type(
+         int
+        ) [Type]
+       x
+        NoVarDeclMore(
+        ) [NoVarDeclMore]
+      ) [VarDeclaration]
+    ) [VarParam]
+    VarDeclaration(
+      Type(
+       int
+      ) [Type]
+     y
+      NoVarDeclMore(
+      ) [NoVarDeclMore]
+    ) [VarDeclaration]
+  ) [VarParam]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        VoidRetType(
+        ) [VoidRetType]
+       main
+      ) [MethodTypeName]
+      NoFormPars(
+      ) [NoFormPars]
+      NoVarDecl(
+      ) [NoVarDecl]
+      MultiStmtList(
+        MultiStmtList(
+          NoStmt(
+          ) [NoStmt]
+          SingleStmtLabelNoLabel(
+            PrintStmt(
+              BasicExpr(
+                NoMinus(
+                ) [NoMinus]
+                TermExpr(
+                  FactorTerm(
+                    NumConst(
+                     1
+                    ) [NumConst]
+                  ) [FactorTerm]
+                ) [TermExpr]
+              ) [BasicExpr]
+            ) [PrintStmt]
+          ) [SingleStmtLabelNoLabel]
+        ) [MultiStmtList]
+        SingleStmtLabelNoLabel(
+          PrintStmt(
+            BasicExpr(
+              NoMinus(
+              ) [NoMinus]
+              TermExpr(
+                FactorTerm(
+                  NumConst(
+                   2
+                  ) [NumConst]
+                ) [FactorTerm]
+              ) [TermExpr]
+            ) [BasicExpr]
+          ) [PrintStmt]
+        ) [SingleStmtLabelNoLabel]
+      ) [MultiStmtList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  20:36:12,322 - ===================================
+INFO  20:36:12,326 - Deklarisana je nova promenljiva: Vrsta: Var, Ime: x, Tip: int, Adr: 0, Level: 0, FpPos: 0 na liniji 5
+INFO  20:36:12,326 - Deklarisana je nova promenljiva: Vrsta: Var, Ime: y, Tip: int, Adr: 1, Level: 0, FpPos: 0 na liniji 5
+INFO  20:36:12,326 - Obradjuje se funkcija: Vrsta: Meth, Ime: main, Tip: void, Adr: 0, Level: 0, FpPos: 0 na liniji 8
+INFO  20:36:12,327 - ===================================
+INFO  20:36:12,350 - Parsiranje uspesno zavrseno!

@@ -1,0 +1,287 @@
+INFO  21:19:37,310 - Compiling source file: C:\Users\user\Desktop\PP_Projekat\PROJEKAT_PRAVI\MJCompiler\test\program.mj
+INFO  21:19:37,350 - #6 program
+INFO  21:19:37,350 - #2 test301
+INFO  21:19:37,350 - #10 const
+INFO  21:19:37,352 - #2 int
+INFO  21:19:37,352 - #2 nula
+INFO  21:19:37,352 - #38 =
+INFO  21:19:37,353 - #3 0
+INFO  21:19:37,353 - #41 ;
+INFO  21:19:37,353 - #10 const
+INFO  21:19:37,354 - #2 int
+INFO  21:19:37,354 - #2 jedan
+INFO  21:19:37,354 - #38 =
+INFO  21:19:37,354 - #3 1
+INFO  21:19:37,354 - #41 ;
+INFO  21:19:37,354 - #10 const
+INFO  21:19:37,354 - #2 int
+INFO  21:19:37,354 - #2 tri
+INFO  21:19:37,355 - #38 =
+INFO  21:19:37,355 - #3 3
+INFO  21:19:37,355 - #41 ;
+INFO  21:19:37,355 - #10 const
+INFO  21:19:37,355 - #2 int
+INFO  21:19:37,355 - #2 pet
+INFO  21:19:37,356 - #38 =
+INFO  21:19:37,356 - #3 5
+INFO  21:19:37,356 - #41 ;
+INFO  21:19:37,356 - #10 const
+INFO  21:19:37,356 - #2 char
+INFO  21:19:37,356 - #2 provera
+INFO  21:19:37,356 - #38 =
+INFO  21:19:37,356 - #4 a
+INFO  21:19:37,356 - #41 ;
+INFO  21:19:37,356 - #10 const
+INFO  21:19:37,356 - #2 bool
+INFO  21:19:37,357 - #2 pozShibi
+INFO  21:19:37,357 - #38 =
+INFO  21:19:37,357 - #5 true
+INFO  21:19:37,357 - #41 ;
+INFO  21:19:37,357 - #2 int
+INFO  21:19:37,357 - #2 niz
+INFO  21:19:37,357 - #48 [
+INFO  21:19:37,357 - #49 ]
+INFO  21:19:37,357 - #41 ;
+INFO  21:19:37,358 - #2 char
+INFO  21:19:37,358 - #2 nizch
+INFO  21:19:37,359 - #48 [
+INFO  21:19:37,359 - #49 ]
+INFO  21:19:37,359 - #41 ;
+INFO  21:19:37,359 - #2 int
+INFO  21:19:37,359 - #2 niza
+INFO  21:19:37,359 - #48 [
+INFO  21:19:37,359 - #49 ]
+INFO  21:19:37,359 - #41 ;
+INFO  21:19:37,359 - #46 {
+INFO  21:19:37,359 - #11 void
+INFO  21:19:37,360 - #2 main
+INFO  21:19:37,361 - #44 (
+INFO  21:19:37,362 - #45 )
+INFO  21:19:37,362 - #2 int
+INFO  21:19:37,363 - #2 bodovi
+INFO  21:19:37,363 - #41 ;
+INFO  21:19:37,363 - #2 int
+INFO  21:19:37,363 - #2 bodovi1
+INFO  21:19:37,364 - #41 ;
+INFO  21:19:37,364 - #2 bool
+INFO  21:19:37,364 - #2 bt
+INFO  21:19:37,364 - #41 ;
+INFO  21:19:37,364 - #46 {
+INFO  21:19:37,371 - #23 print
+INFO  21:19:37,372 - #44 (
+INFO  21:19:37,372 - #2 nula
+INFO  21:19:37,373 - #45 )
+INFO  21:19:37,374 - #41 ;
+INFO  21:19:37,374 - #23 print
+INFO  21:19:37,374 - #44 (
+INFO  21:19:37,374 - #2 jedan
+INFO  21:19:37,375 - #45 )
+INFO  21:19:37,375 - #41 ;
+INFO  21:19:37,375 - #47 }
+INFO  21:19:37,375 - #47 }
+INFO  21:19:37,385 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  VarParam(
+    VarParam(
+      VarParam(
+        ConstParam(
+          ConstParam(
+            ConstParam(
+              ConstParam(
+                ConstParam(
+                  ConstParam(
+                    ParamDeclDerived1(
+                    ) [ParamDeclDerived1]
+                    ConstDecl(
+                      Type(
+                       int
+                      ) [Type]
+                      SingleNumberConst(
+                       nula
+                       0
+                      ) [SingleNumberConst]
+                    ) [ConstDecl]
+                  ) [ConstParam]
+                  ConstDecl(
+                    Type(
+                     int
+                    ) [Type]
+                    SingleNumberConst(
+                     jedan
+                     1
+                    ) [SingleNumberConst]
+                  ) [ConstDecl]
+                ) [ConstParam]
+                ConstDecl(
+                  Type(
+                   int
+                  ) [Type]
+                  SingleNumberConst(
+                   tri
+                   3
+                  ) [SingleNumberConst]
+                ) [ConstDecl]
+              ) [ConstParam]
+              ConstDecl(
+                Type(
+                 int
+                ) [Type]
+                SingleNumberConst(
+                 pet
+                 5
+                ) [SingleNumberConst]
+              ) [ConstDecl]
+            ) [ConstParam]
+            ConstDecl(
+              Type(
+               char
+              ) [Type]
+              SingleCharConst(
+               provera
+               a
+              ) [SingleCharConst]
+            ) [ConstDecl]
+          ) [ConstParam]
+          ConstDecl(
+            Type(
+             bool
+            ) [Type]
+            SingleBoolConst(
+             pozShibi
+             true
+            ) [SingleBoolConst]
+          ) [ConstDecl]
+        ) [ConstParam]
+        VarDeclarationArray(
+          Type(
+           int
+          ) [Type]
+         niz
+          NoVarDeclMore(
+          ) [NoVarDeclMore]
+        ) [VarDeclarationArray]
+      ) [VarParam]
+      VarDeclarationArray(
+        Type(
+         char
+        ) [Type]
+       nizch
+        NoVarDeclMore(
+        ) [NoVarDeclMore]
+      ) [VarDeclarationArray]
+    ) [VarParam]
+    VarDeclarationArray(
+      Type(
+       int
+      ) [Type]
+     niza
+      NoVarDeclMore(
+      ) [NoVarDeclMore]
+    ) [VarDeclarationArray]
+  ) [VarParam]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        VoidRetType(
+        ) [VoidRetType]
+       main
+      ) [MethodTypeName]
+      NoFormPars(
+      ) [NoFormPars]
+      VarDeclarations(
+        VarDeclarations(
+          VarDeclarations(
+            NoVarDecl(
+            ) [NoVarDecl]
+            VarDeclaration(
+              Type(
+               int
+              ) [Type]
+             bodovi
+              NoVarDeclMore(
+              ) [NoVarDeclMore]
+            ) [VarDeclaration]
+          ) [VarDeclarations]
+          VarDeclaration(
+            Type(
+             int
+            ) [Type]
+           bodovi1
+            NoVarDeclMore(
+            ) [NoVarDeclMore]
+          ) [VarDeclaration]
+        ) [VarDeclarations]
+        VarDeclaration(
+          Type(
+           bool
+          ) [Type]
+         bt
+          NoVarDeclMore(
+          ) [NoVarDeclMore]
+        ) [VarDeclaration]
+      ) [VarDeclarations]
+      MultiStmtList(
+        MultiStmtList(
+          NoStmt(
+          ) [NoStmt]
+          SingleStmtLabelNoLabel(
+            PrintStmt(
+              BasicExpr(
+                NoMinus(
+                ) [NoMinus]
+                TermExpr(
+                  FactorTerm(
+                    Var(
+                      DesBasic(
+                       nula
+                      ) [DesBasic]
+                    ) [Var]
+                  ) [FactorTerm]
+                ) [TermExpr]
+              ) [BasicExpr]
+            ) [PrintStmt]
+          ) [SingleStmtLabelNoLabel]
+        ) [MultiStmtList]
+        SingleStmtLabelNoLabel(
+          PrintStmt(
+            BasicExpr(
+              NoMinus(
+              ) [NoMinus]
+              TermExpr(
+                FactorTerm(
+                  Var(
+                    DesBasic(
+                     jedan
+                    ) [DesBasic]
+                  ) [Var]
+                ) [FactorTerm]
+              ) [TermExpr]
+            ) [BasicExpr]
+          ) [PrintStmt]
+        ) [SingleStmtLabelNoLabel]
+      ) [MultiStmtList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  21:19:37,385 - ===================================
+INFO  21:19:37,389 - Deklarisana je nova konstanta: Vrsta: Const, Ime: nula, Tip: int, Adr: 0, Level: 0, FpPos: 0 na liniji 5
+INFO  21:19:37,389 - Deklarisana je nova konstanta: Vrsta: Const, Ime: jedan, Tip: int, Adr: 1, Level: 0, FpPos: 0 na liniji 6
+INFO  21:19:37,389 - Deklarisana je nova konstanta: Vrsta: Const, Ime: tri, Tip: int, Adr: 3, Level: 0, FpPos: 0 na liniji 7
+INFO  21:19:37,389 - Deklarisana je nova konstanta: Vrsta: Const, Ime: pet, Tip: int, Adr: 5, Level: 0, FpPos: 0 na liniji 8
+INFO  21:19:37,389 - Deklarisana je nova konstanta: Vrsta: Const, Ime: provera, Tip: char, Adr: 97, Level: 0, FpPos: 0 na liniji 9
+INFO  21:19:37,390 - Deklarisana je nova konstanta: Vrsta: Const, Ime: pozShibi, Tip: bool, Adr: 1, Level: 0, FpPos: 0 na liniji 10
+INFO  21:19:37,390 - Deklarisana je nova niz promenljiva: Vrsta: Var, Ime: niz, Tip: int[], Adr: 0, Level: 0, FpPos: 0 na liniji 12
+INFO  21:19:37,390 - Deklarisana je nova niz promenljiva: Vrsta: Var, Ime: nizch, Tip: char[], Adr: 1, Level: 0, FpPos: 0 na liniji 13
+INFO  21:19:37,390 - Deklarisana je nova niz promenljiva: Vrsta: Var, Ime: niza, Tip: int[], Adr: 2, Level: 0, FpPos: 0 na liniji 14
+INFO  21:19:37,390 - Obradjuje se funkcija: Vrsta: Meth, Ime: main, Tip: void, Adr: 0, Level: 0, FpPos: 0 na liniji 17
+INFO  21:19:37,390 - Deklarisana je nova promenljiva: Vrsta: Var, Ime: bodovi, Tip: int, Adr: 0, Level: 1, FpPos: 0 na liniji 18
+INFO  21:19:37,390 - Deklarisana je nova promenljiva: Vrsta: Var, Ime: bodovi1, Tip: int, Adr: 1, Level: 1, FpPos: 0 na liniji 19
+INFO  21:19:37,391 - Deklarisana je nova promenljiva: Vrsta: Var, Ime: bt, Tip: bool, Adr: 2, Level: 1, FpPos: 0 na liniji 20
+INFO  21:19:37,391 - Nadjena promenjiva: Vrsta: Const, Ime: nula, Tip: int, Adr: 0, Level: 0, FpPos: 0 na liniji 22
+INFO  21:19:37,391 - Nadjena promenjiva: Vrsta: Const, Ime: jedan, Tip: int, Adr: 1, Level: 0, FpPos: 0 na liniji 23
+INFO  21:19:37,392 - ===================================
+INFO  21:19:37,414 - Parsiranje uspesno zavrseno!

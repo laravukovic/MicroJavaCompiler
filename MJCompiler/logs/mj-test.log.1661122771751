@@ -1,0 +1,113 @@
+INFO  00:58:38,471 - Compiling source file: C:\Users\user\Desktop\PP_Projekat\PROJEKAT_PRAVI\MJCompiler\test\program.mj
+INFO  00:58:38,510 - #6 program
+INFO  00:58:38,510 - #2 test301
+INFO  00:58:38,510 - #10 const
+INFO  00:58:38,511 - #2 int
+INFO  00:58:38,511 - #2 nula
+INFO  00:58:38,512 - #38 =
+INFO  00:58:38,512 - #3 0
+INFO  00:58:38,512 - #41 ;
+INFO  00:58:38,513 - #10 const
+INFO  00:58:38,513 - #2 int
+INFO  00:58:38,514 - #2 jedan
+INFO  00:58:38,514 - #38 =
+INFO  00:58:38,514 - #3 1
+INFO  00:58:38,514 - #41 ;
+INFO  00:58:38,514 - #10 const
+INFO  00:58:38,514 - #2 int
+INFO  00:58:38,514 - #2 tri
+INFO  00:58:38,514 - #38 =
+INFO  00:58:38,514 - #3 3
+INFO  00:58:38,514 - #41 ;
+INFO  00:58:38,514 - #10 const
+INFO  00:58:38,515 - #2 int
+INFO  00:58:38,515 - #2 pet
+INFO  00:58:38,515 - #38 =
+INFO  00:58:38,515 - #3 5
+INFO  00:58:38,515 - #41 ;
+INFO  00:58:38,515 - #2 int
+INFO  00:58:38,515 - #2 niz
+INFO  00:58:38,515 - #48 [
+INFO  00:58:38,516 - #49 ]
+INFO  00:58:38,516 - #41 ;
+INFO  00:58:38,516 - #2 char
+INFO  00:58:38,517 - #2 nizch
+INFO  00:58:38,517 - #48 [
+INFO  00:58:38,517 - #49 ]
+INFO  00:58:38,517 - #41 ;
+INFO  00:58:38,517 - #46 {
+INFO  00:58:38,517 - #47 }
+INFO  00:58:38,519 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  VarParam(
+    VarParam(
+      ConstParam(
+        ConstParam(
+          ConstParam(
+            ConstParam(
+              ParamDeclDerived1(
+              ) [ParamDeclDerived1]
+              ConstDecl(
+                Type(
+                 int
+                ) [Type]
+                SingleNumberConst(
+                 nula
+                 0
+                ) [SingleNumberConst]
+              ) [ConstDecl]
+            ) [ConstParam]
+            ConstDecl(
+              Type(
+               int
+              ) [Type]
+              SingleNumberConst(
+               jedan
+               1
+              ) [SingleNumberConst]
+            ) [ConstDecl]
+          ) [ConstParam]
+          ConstDecl(
+            Type(
+             int
+            ) [Type]
+            SingleNumberConst(
+             tri
+             3
+            ) [SingleNumberConst]
+          ) [ConstDecl]
+        ) [ConstParam]
+        ConstDecl(
+          Type(
+           int
+          ) [Type]
+          SingleNumberConst(
+           pet
+           5
+          ) [SingleNumberConst]
+        ) [ConstDecl]
+      ) [ConstParam]
+      VarDeclarationArray(
+        Type(
+         int
+        ) [Type]
+       niz
+        NoVarDeclMore(
+        ) [NoVarDeclMore]
+      ) [VarDeclarationArray]
+    ) [VarParam]
+    VarDeclarationArray(
+      Type(
+       char
+      ) [Type]
+     nizch
+      NoVarDeclMore(
+      ) [NoVarDeclMore]
+    ) [VarDeclarationArray]
+  ) [VarParam]
+  NoMethodDeclarations(
+  ) [NoMethodDeclarations]
+) [Program]
+INFO  00:58:38,519 - ===================================

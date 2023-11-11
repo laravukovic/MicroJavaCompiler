@@ -1,0 +1,325 @@
+INFO  18:03:28,395 - Compiling source file: C:\Users\user\Desktop\PP_Projekat\PROJEKAT_PRAVI\MJCompiler\test\testForIncDecAndRetVal.mj
+INFO  18:03:28,459 - #6 program
+INFO  18:03:28,460 - #2 test301
+INFO  18:03:28,460 - #10 const
+INFO  18:03:28,462 - #2 int
+INFO  18:03:28,462 - #2 x
+INFO  18:03:28,463 - #38 =
+INFO  18:03:28,463 - #3 3
+INFO  18:03:28,463 - #41 ;
+INFO  18:03:28,463 - #2 int
+INFO  18:03:28,464 - #2 a
+INFO  18:03:28,464 - #41 ;
+INFO  18:03:28,465 - #46 {
+INFO  18:03:28,466 - #11 void
+INFO  18:03:28,467 - #2 main
+INFO  18:03:28,468 - #44 (
+INFO  18:03:28,469 - #45 )
+INFO  18:03:28,470 - #2 int
+INFO  18:03:28,471 - #2 p
+INFO  18:03:28,471 - #41 ;
+INFO  18:03:28,471 - #46 {
+INFO  18:03:28,471 - #23 print
+INFO  18:03:28,473 - #44 (
+INFO  18:03:28,473 - #2 x
+INFO  18:03:28,475 - #45 )
+INFO  18:03:28,476 - #41 ;
+INFO  18:03:28,476 - #2 a
+INFO  18:03:28,476 - #38 =
+INFO  18:03:28,476 - #2 x
+INFO  18:03:28,478 - #41 ;
+INFO  18:03:28,478 - #23 print
+INFO  18:03:28,479 - #44 (
+INFO  18:03:28,479 - #2 a
+INFO  18:03:28,479 - #45 )
+INFO  18:03:28,479 - #41 ;
+INFO  18:03:28,479 - #2 a
+INFO  18:03:28,479 - #38 =
+INFO  18:03:28,479 - #26 -
+INFO  18:03:28,479 - #3 1
+INFO  18:03:28,480 - #41 ;
+INFO  18:03:28,480 - #2 a
+INFO  18:03:28,480 - #39 ++
+INFO  18:03:28,480 - #41 ;
+INFO  18:03:28,481 - #23 print
+INFO  18:03:28,481 - #44 (
+INFO  18:03:28,481 - #2 a
+INFO  18:03:28,481 - #45 )
+INFO  18:03:28,481 - #41 ;
+INFO  18:03:28,481 - #2 a
+INFO  18:03:28,481 - #40 --
+INFO  18:03:28,482 - #41 ;
+INFO  18:03:28,482 - #23 print
+INFO  18:03:28,482 - #44 (
+INFO  18:03:28,482 - #2 a
+INFO  18:03:28,482 - #45 )
+INFO  18:03:28,482 - #41 ;
+INFO  18:03:28,483 - #2 a
+INFO  18:03:28,483 - #38 =
+INFO  18:03:28,483 - #26 -
+INFO  18:03:28,483 - #2 a
+INFO  18:03:28,483 - #41 ;
+INFO  18:03:28,483 - #23 print
+INFO  18:03:28,483 - #44 (
+INFO  18:03:28,483 - #2 a
+INFO  18:03:28,483 - #45 )
+INFO  18:03:28,483 - #41 ;
+INFO  18:03:28,484 - #47 }
+INFO  18:03:28,484 - #47 }
+INFO  18:03:28,496 - Program(
+  ProgName(
+   test301
+  ) [ProgName]
+  VarParam(
+    ConstParam(
+      ParamDeclDerived1(
+      ) [ParamDeclDerived1]
+      ConstDecl(
+        Type(
+         int
+        ) [Type]
+        SingleNumberConst(
+         x
+         3
+        ) [SingleNumberConst]
+      ) [ConstDecl]
+    ) [ConstParam]
+    VarDeclaration(
+      Type(
+       int
+      ) [Type]
+     a
+      NoVarDeclMore(
+      ) [NoVarDeclMore]
+    ) [VarDeclaration]
+  ) [VarParam]
+  MethodDeclarations(
+    NoMethodDeclarations(
+    ) [NoMethodDeclarations]
+    MethodDecl(
+      MethodTypeName(
+        VoidRetType(
+        ) [VoidRetType]
+       main
+      ) [MethodTypeName]
+      NoFormPars(
+      ) [NoFormPars]
+      VarDeclarations(
+        NoVarDecl(
+        ) [NoVarDecl]
+        VarDeclaration(
+          Type(
+           int
+          ) [Type]
+         p
+          NoVarDeclMore(
+          ) [NoVarDeclMore]
+        ) [VarDeclaration]
+      ) [VarDeclarations]
+      MultiStmtList(
+        MultiStmtList(
+          MultiStmtList(
+            MultiStmtList(
+              MultiStmtList(
+                MultiStmtList(
+                  MultiStmtList(
+                    MultiStmtList(
+                      MultiStmtList(
+                        MultiStmtList(
+                          NoStmt(
+                          ) [NoStmt]
+                          SingleStmtLabelNoLabel(
+                            PrintStmt(
+                              BasicExpr(
+                                NoMinus(
+                                ) [NoMinus]
+                                TermExpr(
+                                  FactorTerm(
+                                    Var(
+                                      DesBasic(
+                                       x
+                                      ) [DesBasic]
+                                    ) [Var]
+                                  ) [FactorTerm]
+                                ) [TermExpr]
+                              ) [BasicExpr]
+                            ) [PrintStmt]
+                          ) [SingleStmtLabelNoLabel]
+                        ) [MultiStmtList]
+                        DesStmt(
+                          DesAssign(
+                            DesBasic(
+                             a
+                            ) [DesBasic]
+                            AssignOperator(
+                            ) [AssignOperator]
+                            BasicExpr(
+                              NoMinus(
+                              ) [NoMinus]
+                              TermExpr(
+                                FactorTerm(
+                                  Var(
+                                    DesBasic(
+                                     x
+                                    ) [DesBasic]
+                                  ) [Var]
+                                ) [FactorTerm]
+                              ) [TermExpr]
+                            ) [BasicExpr]
+                          ) [DesAssign]
+                        ) [DesStmt]
+                      ) [MultiStmtList]
+                      SingleStmtLabelNoLabel(
+                        PrintStmt(
+                          BasicExpr(
+                            NoMinus(
+                            ) [NoMinus]
+                            TermExpr(
+                              FactorTerm(
+                                Var(
+                                  DesBasic(
+                                   a
+                                  ) [DesBasic]
+                                ) [Var]
+                              ) [FactorTerm]
+                            ) [TermExpr]
+                          ) [BasicExpr]
+                        ) [PrintStmt]
+                      ) [SingleStmtLabelNoLabel]
+                    ) [MultiStmtList]
+                    DesStmt(
+                      DesAssign(
+                        DesBasic(
+                         a
+                        ) [DesBasic]
+                        AssignOperator(
+                        ) [AssignOperator]
+                        BasicExpr(
+                          Minus(
+                          ) [Minus]
+                          TermExpr(
+                            FactorTerm(
+                              NumConst(
+                               1
+                              ) [NumConst]
+                            ) [FactorTerm]
+                          ) [TermExpr]
+                        ) [BasicExpr]
+                      ) [DesAssign]
+                    ) [DesStmt]
+                  ) [MultiStmtList]
+                  DesStmt(
+                    VarInc(
+                      DesBasic(
+                       a
+                      ) [DesBasic]
+                    ) [VarInc]
+                  ) [DesStmt]
+                ) [MultiStmtList]
+                SingleStmtLabelNoLabel(
+                  PrintStmt(
+                    BasicExpr(
+                      NoMinus(
+                      ) [NoMinus]
+                      TermExpr(
+                        FactorTerm(
+                          Var(
+                            DesBasic(
+                             a
+                            ) [DesBasic]
+                          ) [Var]
+                        ) [FactorTerm]
+                      ) [TermExpr]
+                    ) [BasicExpr]
+                  ) [PrintStmt]
+                ) [SingleStmtLabelNoLabel]
+              ) [MultiStmtList]
+              DesStmt(
+                VarDec(
+                  DesBasic(
+                   a
+                  ) [DesBasic]
+                ) [VarDec]
+              ) [DesStmt]
+            ) [MultiStmtList]
+            SingleStmtLabelNoLabel(
+              PrintStmt(
+                BasicExpr(
+                  NoMinus(
+                  ) [NoMinus]
+                  TermExpr(
+                    FactorTerm(
+                      Var(
+                        DesBasic(
+                         a
+                        ) [DesBasic]
+                      ) [Var]
+                    ) [FactorTerm]
+                  ) [TermExpr]
+                ) [BasicExpr]
+              ) [PrintStmt]
+            ) [SingleStmtLabelNoLabel]
+          ) [MultiStmtList]
+          DesStmt(
+            DesAssign(
+              DesBasic(
+               a
+              ) [DesBasic]
+              AssignOperator(
+              ) [AssignOperator]
+              BasicExpr(
+                Minus(
+                ) [Minus]
+                TermExpr(
+                  FactorTerm(
+                    Var(
+                      DesBasic(
+                       a
+                      ) [DesBasic]
+                    ) [Var]
+                  ) [FactorTerm]
+                ) [TermExpr]
+              ) [BasicExpr]
+            ) [DesAssign]
+          ) [DesStmt]
+        ) [MultiStmtList]
+        SingleStmtLabelNoLabel(
+          PrintStmt(
+            BasicExpr(
+              NoMinus(
+              ) [NoMinus]
+              TermExpr(
+                FactorTerm(
+                  Var(
+                    DesBasic(
+                     a
+                    ) [DesBasic]
+                  ) [Var]
+                ) [FactorTerm]
+              ) [TermExpr]
+            ) [BasicExpr]
+          ) [PrintStmt]
+        ) [SingleStmtLabelNoLabel]
+      ) [MultiStmtList]
+    ) [MethodDecl]
+  ) [MethodDeclarations]
+) [Program]
+INFO  18:03:28,497 - ===================================
+INFO  18:03:28,501 - Deklarisana je nova konstanta: Vrsta: Const, Ime: x, Tip: int, Adr: 3, Level: 0, FpPos: 0 na liniji 4
+INFO  18:03:28,501 - Deklarisana je nova promenljiva: Vrsta: Var, Ime: a, Tip: int, Adr: 0, Level: 0, FpPos: 0 na liniji 5
+INFO  18:03:28,502 - Obradjuje se funkcija: Vrsta: Meth, Ime: main, Tip: void, Adr: 0, Level: 0, FpPos: 0 na liniji 7
+INFO  18:03:28,502 - Deklarisana je nova promenljiva: Vrsta: Var, Ime: p, Tip: int, Adr: 0, Level: 1, FpPos: 0 na liniji 8
+INFO  18:03:28,502 - Nadjena promenjiva: Vrsta: Const, Ime: x, Tip: int, Adr: 3, Level: 0, FpPos: 0 na liniji 10
+INFO  18:03:28,502 - Nadjena promenjiva: Vrsta: Var, Ime: a, Tip: int, Adr: 0, Level: 0, FpPos: 0 na liniji 11
+INFO  18:03:28,502 - Nadjena promenjiva: Vrsta: Const, Ime: x, Tip: int, Adr: 3, Level: 0, FpPos: 0 na liniji 11
+INFO  18:03:28,502 - Nadjena promenjiva: Vrsta: Var, Ime: a, Tip: int, Adr: 0, Level: 0, FpPos: 0 na liniji 12
+INFO  18:03:28,502 - Nadjena promenjiva: Vrsta: Var, Ime: a, Tip: int, Adr: 0, Level: 0, FpPos: 0 na liniji 14
+INFO  18:03:28,503 - Nadjena promenjiva: Vrsta: Var, Ime: a, Tip: int, Adr: 0, Level: 0, FpPos: 0 na liniji 15
+INFO  18:03:28,503 - Nadjena promenjiva: Vrsta: Var, Ime: a, Tip: int, Adr: 0, Level: 0, FpPos: 0 na liniji 16
+INFO  18:03:28,503 - Nadjena promenjiva: Vrsta: Var, Ime: a, Tip: int, Adr: 0, Level: 0, FpPos: 0 na liniji 18
+INFO  18:03:28,503 - Nadjena promenjiva: Vrsta: Var, Ime: a, Tip: int, Adr: 0, Level: 0, FpPos: 0 na liniji 19
+INFO  18:03:28,503 - Nadjena promenjiva: Vrsta: Var, Ime: a, Tip: int, Adr: 0, Level: 0, FpPos: 0 na liniji 21
+INFO  18:03:28,503 - Nadjena promenjiva: Vrsta: Var, Ime: a, Tip: int, Adr: 0, Level: 0, FpPos: 0 na liniji 21
+INFO  18:03:28,503 - Nadjena promenjiva: Vrsta: Var, Ime: a, Tip: int, Adr: 0, Level: 0, FpPos: 0 na liniji 22
+INFO  18:03:28,504 - ===================================
+INFO  18:03:28,529 - Parsiranje uspesno zavrseno!
